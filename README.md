@@ -14,3 +14,5 @@
 
 <img src="https://github.com/PauloJesus45/projeto-responsividade/blob/master/Captura%20da%20Web_1-5-2023_173456_127.0.0.1.jpeg?raw=true" />
 
+<img src="https://github.com/PauloJesus45/projeto-responsividade/blob/master/Captura%20da%20Web_1-5-2023_17428_127.0.0.1.jpeg?raw=true" />
+
